@@ -1,3 +1,4 @@
+package BinarySearch;
 public class Solution34 {
 	public static int[] searchRange(int[] A, int target) {
 		int start = 0;
@@ -58,7 +59,7 @@ public class Solution34 {
 	}
 
 	public static void main(String[] args) {
-		int test[] = { 2,2,4};
+		int test[] = { 2, 2, 4 };
 		int result[] = searchRange(test, 4);
 		System.out.println(result[0]);
 		System.out.println(result[1]);

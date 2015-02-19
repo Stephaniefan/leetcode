@@ -1,3 +1,4 @@
+package BinarySearch;
 public class Solution69{
 	public int sqrt(int x) {
 		long begin = 1;

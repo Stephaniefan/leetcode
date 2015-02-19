@@ -1,3 +1,4 @@
+package BinarySearch;
 public class Solution35 {
 
 	public static int searchInsert(int[] A, int target) {
